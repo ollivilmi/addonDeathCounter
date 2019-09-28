@@ -1,0 +1,5 @@
+## Interface: 11302
+## Title: DeathCounter
+## Notes: Count the deaths of your warlock player.
+## Author: Hillo
+DeathCounter.lua
